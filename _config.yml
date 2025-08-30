@@ -6,8 +6,3 @@ baseurl: ""   # name of your repo
 url: "https://jayeshsharma2605.github.io"
 
 theme: minima
-
-# Collections
-collections:
-  system_design:
-    output: true
