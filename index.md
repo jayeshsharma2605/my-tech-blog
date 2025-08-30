@@ -1,13 +1,11 @@
-# Tech Notes
-
-Welcome! This site collects my notes on programming, cloud, and system design.
-
-## Topics
-- [System Design](system-design/caching.md)
-- [AWS Notes](cloud/aws-notes)
-- [Consistency vs Availability](system-design/consistency-vs-availability)
-
+---
+layout: home
+title: "Welcome to My Tech Blog"
 ---
 
-> Tip: Add more links as you create new notes.
+Hi 👋, welcome to my blog!  
+Here I explain technical concepts in **simple and easy-to-understand language**.
+
+👉 Start with my first post: [Caching Basics](/2025/08/30/caching-basics.html)
+
 
