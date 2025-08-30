@@ -29,26 +29,27 @@ Caching means keeping a copy of something in a **quick access place** so you don
 - ✅ **With cache**: The app saves the result for 10 minutes. If you search again within that time, it shows the saved result instantly.  
 
 ---
+
 # Human Brain vs Computer Memory
 
 ## Human Brain Memory
 
 Our brain has different types of memory:
 
-## 1. **Working Memory**
+### 1. Working Memory
 
 - Very fast but very small.  
 - Can hold about **4–7 things** at once.  
 - Lasts only for a short time.  
 - Example: Remembering a phone number just long enough to dial it.
 
-## 2. **Short-Term Memory**
+### 2. Short-Term Memory
 
 - Can hold **thousands of things** for minutes to weeks.  
 - Still fast, but temporary.  
 - Example: Studying for an exam and remembering notes for a few days.
 
-## 3. **Long-Term Memory**
+### 3. Long-Term Memory
 
 - Very large storage, almost unlimited.  
 - Slower to recall compared to working memory.  
@@ -64,25 +65,25 @@ Our brain has different types of memory:
 
 Computers also use layered memory:
 
-## 1. **CPU Registers**
+### 1. CPU Registers
 
 - Fastest memory.  
 - Very tiny (just a few values).  
 - Example: Holding 2–3 numbers in your head while doing quick math.
 
-## 2. **Cache (L1, L2, L3)**
+### 2. Cache (L1, L2, L3)
 
 - Small memory inside the CPU.  
 - Faster than RAM, slower than registers.  
 - Example: A sticky note on your desk for quick info.
 
-## 3. **RAM (Main Memory)**
+### 3. RAM (Main Memory)
 
 - Larger than cache.  
 - Slower than registers and cache.  
 - Example: A bookshelf in your room → more storage but slower to fetch.
 
-## 4. **Hard Disk (HDD/SSD)**
+### 4. Hard Disk (HDD/SSD)
 
 - Huge storage.  
 - Much slower than RAM.  
@@ -109,5 +110,3 @@ Both **brains and computers** use the same idea:
 - Large but **slow** memory at the bottom.  
 
 This balance allows them to work quickly while still keeping a lot of information safe.
-
-
