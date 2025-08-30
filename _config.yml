@@ -1,0 +1,5 @@
+title: "My Tech Blog"
+description: "Simple explanations of technical concepts"
+theme: minima
+plugins:
+  - jekyll-feed
