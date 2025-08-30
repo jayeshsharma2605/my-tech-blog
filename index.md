@@ -3,7 +3,7 @@
 Welcome! This site collects my notes on programming, cloud, and system design.
 
 ## Topics
-- [system design](system-design/caching)
+- [system design](system-design/caching.md)
 - [AWS Notes](cloud/aws-notes)
 - [Consistency vs Availability](system-design/consistency-vs-availability)
 
