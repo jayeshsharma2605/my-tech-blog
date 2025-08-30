@@ -1,6 +1,7 @@
 ---
 title: "System Design: Caching"
 date: 2025-08-31
+permalink: /my-tech-blog/system_design/caching/
 ---
 
 # Caching Basics
