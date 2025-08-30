@@ -31,90 +31,83 @@ Caching means keeping a copy of something in a **quick access place** so you don
 ---
 # Human Brain vs Computer Memory
 
-## Human Brain Memorys
+## Human Brain Memory
 
-Our brain has **different levels of memory**, each with its own speed and size:
+Our brain has different types of memory:
 
-### 1. Working Memory
+## 1. **Working Memory**
 
-- Super fast, but very small.  
-- Can hold only about **4–7 things** at once.  
-- Disappears quickly if not repeated.  
-- 👉 Example: Remembering a phone number just long enough to dial it.
+- Very fast but very small.  
+- Can hold about **4–7 things** at once.  
+- Lasts only for a short time.  
+- Example: Remembering a phone number just long enough to dial it.
 
-### 2. Short-Term Memory
+## 2. **Short-Term Memory**
 
-- Can store **thousands of things** for a short time (minutes to weeks).  
+- Can hold **thousands of things** for minutes to weeks.  
 - Still fast, but temporary.  
-- 👉 Example: Studying for a test and remembering formulas for a few days.
+- Example: Studying for an exam and remembering notes for a few days.
 
-### 3. Long-Term Memory
+## 3. **Long-Term Memory**
 
-- Very large capacity (almost unlimited).  
+- Very large storage, almost unlimited.  
 - Slower to recall compared to working memory.  
 - Permanent storage.  
-- 👉 Example: Once you learn cycling, you never forget.  
-- Fun fact: During **sleep (REM)**, the brain transfers short-term memory into long-term.
+- Example: Once you learn cycling, you never forget.  
+- Fun fact: During **sleep (REM)**, the brain moves short-term memory into long-term.
 
-✅ **Summary:** Brain memory is **hierarchical** →  
-Fast & small → slower & bigger → very large & permanent.
+**Summary:** Brain memory works in layers → fast & small → slower & bigger → permanent & huge.
 
 ---
 
 ## Computer Memory
 
-Computers are designed in a very similar way:
+Computers also use layered memory:
 
-### 1. CPU Registers
+## 1. **CPU Registers**
 
-- The fastest memory.  
-- Extremely small (just a few numbers).  
-- 👉 Example: Like holding 2–3 numbers in your head for quick math.  
+- Fastest memory.  
+- Very tiny (just a few values).  
+- Example: Holding 2–3 numbers in your head while doing quick math.
 
-### 2. Cache (L1, L2, L3)
+## 2. **Cache (L1, L2, L3)**
 
 - Small memory inside the CPU.  
 - Faster than RAM, slower than registers.  
-- 👉 Example: A sticky note on your desk with frequently used info.
+- Example: A sticky note on your desk for quick info.
 
-### 3. RAM (Main Memory)
+## 3. **RAM (Main Memory)**
 
-- Much bigger than cache.  
+- Larger than cache.  
 - Slower than registers and cache.  
-- 👉 Example: A bookshelf in your room → holds more, but takes time to fetch.
+- Example: A bookshelf in your room → more storage but slower to fetch.
 
-### 4. Hard Disk (HDD/SSD)
+## 4. **Hard Disk (HDD/SSD)**
 
 - Huge storage.  
-- Much slower compared to RAM.  
-- 👉 Example: A warehouse → can store everything, but takes time to bring it.
+- Much slower than RAM.  
+- Example: A warehouse → stores everything, but takes time to bring it.
 
 ---
 
 ## Comparison Table
 
-| Level          | Brain Memory         | Computer Memory | Speed   | Size   |
-|----------------|----------------------|----------------|---------|--------|
-| Very Fast      | Working memory       | CPU Registers  | Fastest | Tiny   |
-| Fast           | Short-term memory    | Cache          | Fast    | Small  |
-| Medium         | Long-term memory     | RAM            | Medium  | Large  |
-| Very Slow      | Old memories         | Hard Disk      | Slow    | Huge   |
+| Level       | Brain Memory       | Computer Memory | Speed   | Size   |
+|-------------|-------------------|----------------|---------|--------|
+| Very Fast   | Working memory     | CPU Registers  | Fastest | Tiny   |
+| Fast        | Short-term memory | Cache          | Fast    | Small  |
+| Medium      | Long-term memory  | RAM            | Medium  | Large  |
+| Very Slow   | Old memories      | Hard Disk      | Slow    | Huge   |
 
 ---
 
-## ✨ Conclusion
+## Conclusion
 
 Both **brains and computers** use the same idea:  
 
-- **Small but fast memory** at the top.  
-- **Big but slow memory** at the bottom.  
+- Small but **very fast** memory at the top.  
+- Large but **slow** memory at the bottom.  
 
-This balance allows both humans and computers to work quickly while still keeping lots of information safe.
+This balance allows them to work quickly while still keeping a lot of information safe.
 
-## In Short
-
-**Caching = shortcut memory**  
-It makes things **faster, lighter, and cheaper**.  
-
----
 
