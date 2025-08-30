@@ -1,7 +1,7 @@
 title: My Tech Blog
 description: A blog about tech topics and system design
 baseurl: "" # leave empty for root
-url: "https://yourusername.github.io"
+url: "https://jayeshsharma2605.github.io"
 
 theme: minima
 
@@ -9,7 +9,7 @@ theme: minima
 collections:
   system_design:
     output: true            # make pages accessible on the site
-    permalink: /system_design/:title/
+    permalink: /system_design/:caching/
 
 # Optional: exclude unnecessary files
 exclude:
