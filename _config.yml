@@ -11,4 +11,4 @@ theme: minima
 collections:
   system_design:
     output: true
-    permalink: /system_design/:slug/
+    permalink: /system_design/:name/
