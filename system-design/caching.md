@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Caching Basics and Memory Explained"
+title: "Caching Basics"
 date: 2025-08-30
-categories: tech
+layout: post
+categories: system_design
+tags: [caching, design]
 ---
 
 # Caching Basics
