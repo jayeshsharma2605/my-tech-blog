@@ -1,11 +1,32 @@
 ---
-layout: home
-title: "Welcome to My Tech Blog"
+layout: default
+title: My Tech Blog
 ---
 
-Hi 👋, welcome to my blog!  
-Here I explain technical concepts in **simple and easy-to-understand language**.
+# Welcome to My Tech Blog
 
-👉 Start with my first post: [Caching Basics](/2025/08/30/caching-basics.html)
+Explore articles on technology, tutorials, and system design concepts.
 
+---
 
+## Latest Blog Posts
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> 
+    - <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
+## System Design Notes
+<ul>
+{% for note in site.system_design %}
+  <li>
+    <a href="{{ note.url }}">{{ note.title }}</a> 
+    - <small>{{ note.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
