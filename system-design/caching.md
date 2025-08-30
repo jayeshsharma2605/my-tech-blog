@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Caching Basics and Memory Explained"
+date: 2025-08-30
+categories: tech
+---
+
 # Caching Basics
 
 ## What is Caching?
