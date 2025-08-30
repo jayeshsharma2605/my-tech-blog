@@ -5,7 +5,7 @@ date: 2025-08-31
 categories: tech
 ---
 
-# Caching Basics
+# DNS Cache Explained
 
 ## What is Caching?
 
