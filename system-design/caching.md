@@ -111,10 +111,10 @@ Both **brains and computers** use the same idea:
 
 This balance allows both humans and computers to work quickly while still keeping lots of information safe.
 
-
 ## In Short
 
 **Caching = shortcut memory**  
 It makes things **faster, lighter, and cheaper**.  
 
 ---
+
