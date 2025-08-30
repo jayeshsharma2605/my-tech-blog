@@ -1,5 +1,18 @@
-title: "My Tech Blog"
-description: "Simple explanations of technical concepts"
+title: My Tech Blog
+description: A blog about tech topics and system design
+baseurl: "" # leave empty for root
+url: "https://yourusername.github.io"
+
 theme: minima
-plugins:
-  - jekyll-feed
+
+# Collections
+collections:
+  system_design:
+    output: true            # make pages accessible on the site
+    permalink: /system_design/:title/
+
+# Optional: exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
