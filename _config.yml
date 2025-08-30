@@ -1,9 +1,13 @@
-title: My Tech Blog
-description: A blog about tech and system design
-baseurl: "" 
+title: "My Tech Blog"
+description: "A blog about tech and system design"
+
+# Important for GitHub Pages
+baseurl: "/my-tech-blog"   # name of your repo
 url: "https://jayeshsharma2605.github.io"
+
 theme: minima
 
+# Collections
 collections:
   system_design:
     output: true
