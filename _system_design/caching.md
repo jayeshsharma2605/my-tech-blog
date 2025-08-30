@@ -2,8 +2,7 @@
 layout: default
 title: "System Design: Caching"
 date: 2025-08-31
-slug: caching
-permalink: /system_design/:slug/
+permalink: /system_design/caching/
 ---
 
 # Caching Basics
