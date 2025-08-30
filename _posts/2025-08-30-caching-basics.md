@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "System Design - Caching"
+title: "Caching Basics and Memory Explained "
 date: 2025-08-30
 categories: tech
 ---
