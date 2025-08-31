@@ -13,6 +13,8 @@ Your browser needs to know the **IP address** of Google’s server (like finding
 Instead of asking the "phonebook" (DNS server) **every single time**, the browser keeps a memory of it for a while.  
 That memory is called **DNS Cache**. ✅  
 
+![DNS Cache Explained Simply](/assets/images/dns-cache-explained.png)
+
 ---
 
 ## ❓ What is DNS Cache?
