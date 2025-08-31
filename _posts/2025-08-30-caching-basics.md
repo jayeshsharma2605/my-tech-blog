@@ -115,7 +115,7 @@ Caching happens at **different layers** in a system. We can categorize them as:
 
 ## 🔹 Client-Side (Frontend) Caches
 
-- **[DNS Cache]({{ site.baseurl }}{% post_url 2025-08-31-dns-cache-explained %})** → Stores domain-to-IP mappings for faster lookups.  
+- **[DNS Cache]({{ "/tech/dns-cache-explained/" | relative_url }})** → Stores domain-to-IP mappings for faster lookups.
 - **Browser HTTP/File Cache** → Stores static files like HTML, CSS, JS, and images.  
 - **Cookies** → Small key-value pairs automatically sent with HTTP requests.  
 - **Session Storage** → Temporary per-tab storage, cleared when the tab closes.  
