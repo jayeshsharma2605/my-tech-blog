@@ -5,7 +5,7 @@ date: 2025-08-31
 categories: tech
 ---
 
-# DNS Cache (Explained Simply)
+# DNS Cache
 
 When you type **www.google.com** in your browser, something important happens behind the scenes.  
 Your browser needs to know the **IP address** of Google’s server (like finding a phone number in a phonebook).  
