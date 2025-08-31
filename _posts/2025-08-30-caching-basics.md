@@ -109,12 +109,33 @@ Computers also use layered memory:
 
 ---
 
-## Conclusion
+# 📌 Types of Cache
 
-Both **brains and computers** use the same idea:  
+Caching happens at **different layers** in a system. We can categorize them as:
 
-- Small but **very fast** memory at the top.  
-- Large but **slow** memory at the bottom.  
+## 🔹 Client-Side (Frontend) Caches
 
-This balance allows them to work quickly while still keeping a lot of information safe.
+- **DNS Cache** → Stores domain-to-IP mappings for faster lookups.  
+- **Browser HTTP/File Cache** → Stores static files like HTML, CSS, JS, and images.  
+- **Cookies** → Small key-value pairs automatically sent with HTTP requests.  
+- **Session Storage** → Temporary per-tab storage, cleared when the tab closes.  
+- **Local Storage** → Persistent storage (5–10 MB), survives browser restarts.  
+- **IndexedDB** → Large structured database for offline and PWA apps.  
+- **Service Worker Cache** → Stores assets and API responses for offline-first apps.  
 
+## 🔹 Server-Side (Backend) Caches
+
+- **Web Server Cache** → Stores pre-rendered pages or API responses.  
+- **Application Cache** → Data cached inside the app process.  
+- **Database Cache (Redis, Memcached)** → Fast in-memory stores for DB queries or sessions.  
+- **Query Cache (MySQL/Postgres)** → Database engine’s own query result cache.  
+- **Object Cache** → Prebuilt objects (like ORM entities) cached in memory.  
+
+## 🔹 Network / Infrastructure Caches
+
+- **CDN Cache (Cloudflare, Akamai, AWS CloudFront)** → Edge servers caching static files near the user.  
+- **Proxy Cache** → Reverse proxies caching requests between client ↔ server.  
+- **ISP / Resolver Cache** → ISP DNS resolvers caching domain lookups.  
+- **OS DNS Cache** → Operating system’s own DNS lookup cache.  
+
+---
