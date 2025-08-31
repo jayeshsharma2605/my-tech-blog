@@ -90,9 +90,3 @@ A: Stale cache leading to wrong IP resolution → solved by flushing DNS.
 A: ❌ No, DNS cache is managed by the browser/OS, not by JS.  
 
 ---
-
-## 👀 How to See DNS Cache Practically
-
-### 🔹 In Browser (Chrome/Edge)
-- Type in the address bar:  
-
